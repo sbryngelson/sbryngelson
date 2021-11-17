@@ -1,6 +1,6 @@
 ## Hi👋🏼, I'm Spencer!👨🏻‍💻
 
-* I am an Assistant Professor in the [CSE School](https://cse.gatech.edu) 🏫 within the [Georgia Tech College of Computing](https://www.cc.gatech.edu/)
+* I am an Assistant Professor in the [CSE School](https://cse.gatech.edu) 🏫 of the [Georgia Tech College of Computing](https://www.cc.gatech.edu/)
 * I run the [Computational Physics Group](https://comp-physics.group) here, and am fortunate to have [some awesome students](https://comp-physics.group/team)
 * We develop computational models and methods for pressing problems in ❤️ health, ✈ defense, and more
 * 🖥️ If you're on the hunt for our code, [head over here!](https://github.com/comp-physics)
