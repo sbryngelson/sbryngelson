@@ -2,6 +2,6 @@
 
 * I am an Assistant Professor in the [CSE School](https://cse.gatech.edu) 🏫 of the [Georgia Tech College of Computing](https://www.cc.gatech.edu/)
 * I run the [Computational Physics Group](https://comp-physics.group) here, and am fortunate to have [some awesome students](https://comp-physics.group/team)
-* We develop computational models and methods for pressing problems in ❤️ health, ✈ defense, and more
+* We develop computational methods for pressing problems in ❤️ health, ✈ defense, and more
 * 🖥️ If you're on the hunt for our code, [head over here!](https://github.com/comp-physics)
 * 👥 If you would like to work with us, [check out this page!](https://comp-physics.group/vacancies.html) 
