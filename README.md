@@ -4,4 +4,4 @@
 * I run the [Computational Physics Group](https://comp-physics.group) here, and am fortunate to have [some awesome students](https://comp-physics.group/team)
 * We develop computational methods for pressing problems in ❤️ health, ✈ defense, and more
 * 🖥️ If you're on the hunt for our code, [head over here!](https://github.com/comp-physics)
-* 👥 If you would like to work with us, [check out this page!](https://comp-physics.group/vacancies.html) 
+* 👥 If you want to work with us, [check out this page!](https://comp-physics.group/vacancies.html) 
