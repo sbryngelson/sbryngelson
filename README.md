@@ -7,9 +7,11 @@
 * 🖥️ We develop and maintain several open-source libraries and solvers [(more on that here!)](https://github.com/comp-physics)
 * 👥 If you want to work with us, [check out this page!](https://comp-physics.group/vacancies.html) 
 
-In particular, I encourage you to check out [MFC](mflowcode.github.io) ([GitHub repo.](https://github.com/MFlowCode/MFC)) if you are interested in multiphase or compressible CFD ✈️, it is an exascale solver our group develops and maintains!
+In particular, I encourage you to check out [MFC](mflowcode.github.io) ([GitHub repo.](https://github.com/MFlowCode/MFC))!
+ * If you are interested in multiphase or compressible CFD ✈️...
+ * It is an exascale solver our group develops and maintains!
 
 <p align="center">
-    <img src="airfoil-2.png" alt="Airfoil Example" width="500"/><br/>
+    <img src="airfoil-2.png" alt="Airfoil Example" width="700"/><br/>
     Example MFC simulation
 </p>
