@@ -13,5 +13,5 @@ In particular, I encourage you to check out [MFC](https://mflowcode.github.io) (
 
 <p align="center">
     <img src="airfoil-animated.png" alt="Airfoil Example" width="700"/><br/>
-    Example MFC simulation ([full video](https://vimeo.com/917305340/c05fd414c8?share=copy))
+    Example MFC simulation (<a href="https://vimeo.com/917305340/c05fd414c8?share=copy" target="_blank">full video</a>)
 </p>
