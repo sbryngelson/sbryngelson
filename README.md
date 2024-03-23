@@ -12,6 +12,6 @@ In particular, I encourage you to check out [MFC](https://mflowcode.github.io) (
  * It is an exascale solver our group develops and maintains!
 
 <p align="center">
-    <img src="airfoil-2.png" alt="Airfoil Example" width="700"/><br/>
+    <img src="airfoil-animated.png" alt="Airfoil Example" width="700"/><br/>
     Example MFC simulation
 </p>
